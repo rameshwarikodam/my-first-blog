@@ -1,0 +1,21 @@
+{
+  "params":{
+    "local_server": "True",
+    "local_url": "mysql://root:@127.0.0.1/myfirstblog",
+    "prod_url": "mysql://root:@127.0.0.1/myfirstblog",
+    "fb_url": "https://facebook.com/myfirstblog",
+    "tw_url": "https://twitter.com/myfirstblog",
+    "gh_url": "https://github.com/myfirstblog",
+    "blog_name": "Cricket News",
+    "blog_title": "blog liked by cricket fan",
+    "footer_title": "cricket blog",
+    "gmail_user": "your gmail id",
+    "gmail_pass": "Your gamil password",
+    "about_text": "This page contain latest news about cricket world",
+    "no_of_post": "3",
+    "upload_location": "C:\\Users\\cws\\PycharmProjects\\my-first-blog\\static",
+    "login_image": "login.svg",
+    "admin_user": "monuagarwal",
+    "admin_pass": "iloveyou"
+  }
+}
